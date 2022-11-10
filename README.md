@@ -12,7 +12,7 @@ Where: "Sample": Is the index for the samples,	"Site" is the site number",	"Stum
 
 The sites corresponds to the following sites
 
-| Site  | Name of area | Latitude  | Longitude |
+| Site  | Name of site | Latitude  | Longitude |
 |-------|--------------|-----------|-----------|
 | 1     | Segelsbo     | 56.995408 | 13.160695 |
 | 2     | Örkelljunga  | 56.280233 | 13.404425 |
