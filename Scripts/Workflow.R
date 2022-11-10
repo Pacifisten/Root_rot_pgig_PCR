@@ -16,7 +16,7 @@ ggsave(plot = Barplot_coverage_pos_PCR, "Output/Figure_1.pdf", units = "mm", hei
 ggsave(plot = Spread_of_coverage, filename = "Output/Figure_2.jpg", height = 100, width = 180, units = "mm", dpi = 600, bg = "white")
 ggsave(plot = Spread_of_coverage, filename = "Output/Figure_2.pdf", height = 100, width = 180, units = "mm", bg = "white")
 
-ggsave(plot = Both_graphs, filename = "Output/Figure_3.jpg", height = 100, width = 240, units = "mm", dpi = 600, bg = "white")
+ggsave(plot = Both_graphs, filename = "Output/Figure_3.jpg", height = 100, width = 290, units = "mm", dpi = 600, bg = "white")
 ggsave(plot = Both_graphs, filename = "Output/Figure_3.pdf", height = 100, width = 240, units = "mm", bg = "white")
 
 # Produces table
