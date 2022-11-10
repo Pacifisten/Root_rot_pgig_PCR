@@ -6,7 +6,11 @@ The raw data of stumps can be found in Data/Stump_data.xlsx
 Where: "Site" is site number, "Stump": Is the stump number,	"Infection_area": Is the infected area, "No_colonies": Is the number of _Heterobasidion_ colonies on the stump,	"Coverage": Is the coverage of _P. gigantea_, "Area": Is the stump area.
 
 The "Site" and "Stump corresponds to the values in the PCR datasheet. 
+
+The PCR data can be found in Data/PCR_data.xlsx
 Where: "Sample": Is the index for the samples,	"Site" is the site number",	"Stump": Is the stump number, the columns: "GH28",	"GH28nest",	"GH28 (redo)" and	"GH28nest (redo)" are the different PCR repetitions, "Result": Is the outcome of the PCR, "Stump count": Is just a counter. 
+
+The sites corresponds to the following sites
 
 | Site  | Name of area | Latitude  | Longitude |
 |-------|--------------|-----------|-----------|
