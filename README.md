@@ -2,6 +2,8 @@
 
 Mimmi Blomquist, Michelle Cleary, Patrick Sherwood, Wiebke Schultz, Sebastian Larsson Herrera, Diana Marčiulynienė, Mohammed Elsafy, Itzhak Bakal, Anna Nilsson, Jonas Rönnberg (jonas.ronnberg@slu.se)
 
+[![DOI](https://zenodo.org/badge/564312464.svg)](https://zenodo.org/badge/latestdoi/564312464)
+
 The raw data of stumps can be found in Data/Stump_data.xlsx
 Where: "Site" is site number, "Stump": Is the stump number,	"Infection_area": Is the infected area, "No_colonies": Is the number of _Heterobasidion_ colonies on the stump,	"Coverage": Is the coverage of _P. gigantea_, "Area": Is the stump area.
 
