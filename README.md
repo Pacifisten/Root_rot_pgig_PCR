@@ -30,6 +30,8 @@ The sites corresponds to the following sites
 | 14    | Breafall     | 57.866973 | 14.607942 |
 | 15    | Rosenholm    | 57.345922 | 14.944948 |
 
+The code are all written in R using Rstudio to manage the project and produces the following figures:
+
 ![Fig 1.](https://github.com/Pacifisten/Root_rot_pgig_PCR/blob/main/Output/Figure_1.jpg?raw=true)
 ![Fig 2.](https://github.com/Pacifisten/Root_rot_pgig_PCR/blob/main/Output/Figure_2.jpg?raw=true)
 ![Fig 3.](https://github.com/Pacifisten/Root_rot_pgig_PCR/blob/main/Output/Figure_3.jpg?raw=true)
